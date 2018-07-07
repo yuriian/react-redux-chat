@@ -1,0 +1,19 @@
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background: #C5DDEB;
+	font: 14px/20px "Lato", Arial, sans-serif;
+	padding: 15px 0;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+}
+
+@import 'chat';
